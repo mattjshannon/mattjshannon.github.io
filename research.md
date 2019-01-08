@@ -54,12 +54,20 @@ I am utilizing the Tensorflow implementation of Keras to create neural networks 
 ## <a name="proj04"></a> Hyperspectral imaging for studying organic molecules in space
 2015 – 2016, __[http://adsabs.harvard.edu/abs/2016ApJ...824..111S](http://adsabs.harvard.edu/abs/2016ApJ...824..111S)__
 
+<figure style="border: 1px solid #000; color:blue; display:table; background-color:#fff; padding:5px; font-size:.875em; margin:auto;">
+    <a href="http://adsabs.harvard.edu/abs/2016ApJ...824..111S"><img src="assets/images/figs_gauss/apjaa22aff4_hr.jpg" alt="" width="700" style="display: block;"/></a>
+    <figcaption style="display:table-caption; caption-side:bottom; background:#000; padding:0 5px 5px; line-height: 1.2"><font size="3" color="white">In this study, we examine the subtle variations of two prominent emission bands (top, bottom) produced by organic molecules. Their emission is sensitive to their distance from the nearby bright star.</font></figcaption>
+</figure>
 
-We develop and apply a Gaussian-based decomposition technique to analyze infrared-band hyperspectral images (also known as spatial-spectral maps) of polycyclic aromatic hydrocarbon emission in our galaxy. With this technique, we are able to identify and distinguish between independent molecular populations that are otherwise hidden within spectroscopic blends. We utilize a combination of traditional molecular analysis techniques with an image comparison algorithm to characterize the hydrocarbon population(s). With these approaches, we are able to quantify the ionization fractions of emission bands heretofore unknown.
+<p style="margin-top:1cm;">We develop and apply a Gaussian-based decomposition technique to analyze infrared-band hyperspectral images (also known as spatial-spectral maps) of polycyclic aromatic hydrocarbon emission in our galaxy. With this technique, we are able to identify and distinguish between independent molecular populations that are otherwise hidden within spectroscopic blends. We utilize a combination of traditional molecular analysis techniques with an image comparison algorithm to characterize the hydrocarbon population(s). With these approaches, we are able to quantify the ionization fractions of emission bands heretofore unknown.</p>
 
 ***
 ## <a name="proj05"></a> New statistical relationships amongst astronomical organic molecules
 2013 – 2015, __[http://adsabs.harvard.edu/abs/2015ApJ...811..153S](http://adsabs.harvard.edu/abs/2015ApJ...811..153S)__
 
+<figure style="border: 1px solid #000; color:blue; display:table; background-color:#fff; padding:5px; font-size:.875em; margin:auto;">
+    <a href="http://adsabs.harvard.edu/abs/2015ApJ...811..153S"><img src="assets/images/figs_1520/apj519436f7_hr.jpg" alt="" width="700" style="display: block;"/></a>
+    <figcaption style="display:table-caption; caption-side:bottom; background:#000; padding:0 5px 5px; line-height: 1.2"><font size="3" color="white">Emission features (probed by the quantities on the X and Y axes) exhibit different behaviours across different environments (contours, coloured dots).</font></figcaption>
+</figure>
 
-We report new relationships between the 15-20 μm emission bands of polycyclic aromatic hydrocarbons (PAHs) in a sample of 57 sources observed with the Spitzer/Infrared Spectrograph. This sample includes Large Magellanic Cloud point sources from the SAGE-Spec survey, nearby galaxies from the Spitzer Infrared Nearby Galaxies Survey survey, two Galactic interstellar medium cirrus sources, and the spectral maps of the Galactic reflection nebulae NGC 2023 and NGC 7023. These results show new links between families of organic hydrocarbons, enhancing our understanding of molecule formation, evolution and destruction.
+<p style="margin-top:1cm;">We report new relationships between the 15-20 μm emission bands of polycyclic aromatic hydrocarbons (PAHs) in a sample of 57 sources observed with the Spitzer/Infrared Spectrograph. This sample includes Large Magellanic Cloud point sources from the SAGE-Spec survey, nearby galaxies from the Spitzer Infrared Nearby Galaxies Survey survey, two Galactic interstellar medium cirrus sources, and the spectral maps of the Galactic reflection nebulae NGC 2023 and NGC 7023. These results show new links between families of organic hydrocarbons, enhancing our understanding of molecule formation, evolution and destruction.</p>
