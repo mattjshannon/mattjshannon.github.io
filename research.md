@@ -1,20 +1,32 @@
 ---
 title: Research projects
-subtitle: Here is a selection of some of my research projects, each having a corresponding scientific, peer-reviewed publication.
+subtitle: Here is a selection of research projects, each having a corresponding scientific, peer-reviewed publication.
 layout: "page"
 icon: fa-chart-bar
 order: 2
 ---
 
-# Table of contents
-1. [Neural networks and astronomical datasets [2018+]](#proj01)
-2. [A database-driven Python tool for astronomers [2017+]](#proj02)
-3. [PAH emission from the Galactic Bulge [2017]](#proj03)
-4. [Hyperspectral imaging for studying organic molecules in space [2016]](#proj04)
-5. [New statistical relationships for organic molecules [2015]](#proj05)
+1. [Using the NASA Ames molecular database to study organic molecules [2019]](#proj00)
+2. [Neural networks and astronomical datasets [2018+]](#proj01)
+3. [A database-driven Python tool for astronomers [2017+]](#proj02)
+4. [PAH emission from the Galactic Bulge [2017]](#proj03)
+5. [Hyperspectral imaging for studying organic molecules in space [2016]](#proj04)
+6. [New statistical relationships for organic molecules [2015]](#proj05)
 
 
 ---
+***
+## <a name="proj00"></a> Creating synthetic spectra using the NASA Ames molecular database and implications therein
+2017 – 2019, __[http://adsabs.harvard.edu/abs/2018arXiv181202178S](http://adsabs.harvard.edu/abs/2018arXiv181202178S)__
+
+<figure style="border: 1px solid #000; color:blue; display:table; background-color:#fff; padding:5px; font-size:.875em; margin:auto;">
+    <a href="http://adsabs.harvard.edu/abs/2018arXiv181202178S"><img src="assets/images/figs_pahdb/fig3.png" alt="" width="500" style="display: block;"/></a>
+    <figcaption style="display:table-caption; caption-side:bottom; background:#000; padding:0 5px 5px; line-height: 1.2"><font size="3" color="white">Ways in which synthetic spectra can be created by using the NASA Ames PAH IR Specotrscopic Database (<a href="https://www.astrochemistry.org/pahdb">www.astrochemistry.org/pahdb</a>). We use these data to investigate how molecule charge, size, composition and structure affect the emerging emission spectrum that we see in space.</font></figcaption>
+</figure>
+
+<p style="margin-top:1cm;">We present insights into the behavior of the astronomical 7.7 μm polycyclic aromatic hydrocarbon (PAH) emission complex as gleaned from analyzing synthesized spectra, utilizing the data and tools from the NASA Ames PAH IR Spectroscopic Database. We specifically study the influence of PAH size, charge, aliphatic content and nitrogen substitution on the profile and peak position of the 7.7 μm feature (λ7.7). The 7.7 μm band is known to vary significantly from object-to-object in astronomical observations, but the origin of these variations remains highly speculative. Our results indicate that PAH size can accommodate the largest shift in λ7.7 (~0.4 μm), where relatively small PAHs are consistent with class A spectra (fewer than 60 carbon atoms) while large PAHs are consistent with red/very red class B spectra. Aliphatic PAHs, of which our sample only contains a few, can produce redshifts typically around 0.15 μm; changes in ionization fraction, depending on the species, produce shifts up to 0.1 μm; and nitrogen substitution has no effect on λ7.7. Within the limits of our study, the class B-to-A transition is best explained with a changing PAH size distribution, with a relatively minor role assigned to aliphatic content and varying charge states. The resulting astronomical picture is that the photochemical evolution of PAHs moving from shielded class C/B environments into exposed ISM-like class A environments may be intrinsically different from the reverse class A-to-B transition of interstellar PAHs being incorporated into newly-forming star systems.</p>
+
+
 ## <a name="proj01"></a> Applying neural networks and other machine learning methods to astronomical datasets
 2018 – Present, __[https://github.com/mattjshannon/swsnet](https://github.com/mattjshannon/swsnet)__
 
