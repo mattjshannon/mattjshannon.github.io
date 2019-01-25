@@ -1,6 +1,6 @@
 ---
-title: Research projects
-subtitle: Here is a selection of research projects, each having a corresponding scientific, peer-reviewed publication.
+title: Research
+subtitle: Here is a selection of my scientific research, each with a manuscript either in preparation or already published in a peer-reviewed scientific journal or proceeding.
 layout: "page"
 icon: fa-chart-bar
 order: 2
