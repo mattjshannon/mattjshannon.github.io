@@ -1,0 +1,26 @@
+---
+title: Programming
+icon: fa-user
+order: 3
+---
+
+<style>
+li{
+  margin: 0px 0;
+}
+</style>
+
+<ul align="left">
+  <li>Languages: Python, IDL, R, SQL, BASH, LaTeX</li>
+  <li>Tea</li>  
+  <li>Tea</li>
+  <ul align="left">
+    <li>test</li>
+    <li>test</li>
+    <li>test</li>
+  </ul>
+  <li>Milk</li>
+</ul>
+
+<p>Beyond my scientific research focus, I am a co-developer of the <a href="https://www.astrochemistry.org/pahdb/">NASA Ames PAH IR Spectroscopic Database</a> (PAHdb). I also enjoy working on the development of new research-enabling tools, such as <a href="https://github.com/PAHdb/pyPAHdb">pyPAHdb</a>, a streamlined Python version of the Ames database, which I presented at the SciPy 2018 conference in Austin, TX (<a href="http://conference.scipy.org/proceedings/scipy2018/matthew_shannon.html">proceeding</a>).</p>
+
