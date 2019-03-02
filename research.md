@@ -17,10 +17,10 @@ order: 2
 ---
 ***
 ## <a name="proj00"></a> Creating synthetic spectra using the NASA Ames molecular database and implications therein
-2017 – 2019, __[http://adsabs.harvard.edu/abs/2018arXiv181202178S](http://adsabs.harvard.edu/abs/2018arXiv181202178S)__
+2017 – 2019, __[http://adsabs.harvard.edu/abs/2019ApJ...871..124S](http://adsabs.harvard.edu/abs/2019ApJ...871..124S)__
 
 <figure style="border: 1px solid #000; color:blue; display:table; background-color:#fff; padding:5px; font-size:.875em; margin:auto;">
-    <a href="http://adsabs.harvard.edu/abs/2018arXiv181202178S"><img src="assets/images/figs_pahdb/fig3.png" alt="" width="500" style="display: block;"/></a>
+    <a href="http://adsabs.harvard.edu/abs/2019ApJ...871..124S"><img src="assets/images/figs_pahdb/fig3.png" alt="" width="500" style="display: block;"/></a>
     <figcaption style="display:table-caption; caption-side:bottom; background:#000; padding:0 5px 5px; line-height: 1.2"><font size="3" color="white">Ways in which synthetic spectra can be created by using the NASA Ames PAH IR Specotrscopic Database (<a href="https://www.astrochemistry.org/pahdb">www.astrochemistry.org/pahdb</a>). We use these data to investigate how molecule charge, size, composition and structure affect the emerging emission spectrum that we see in space.</font></figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ I am utilizing the Tensorflow implementation of Keras to create neural networks 
 
 ***
 ## <a name="proj03"></a> The nature of hydrocarbon emission from the Galactic Bulge
-2016 – 2017, __[http://adsabs.harvard.edu/abs/2018ApJ...855...32S](http://adsabs.harvard.edu/abs/2018ApJ...855...32S)__
+2016 – 2018, __[http://adsabs.harvard.edu/abs/2018ApJ...855...32S](http://adsabs.harvard.edu/abs/2018ApJ...855...32S)__
 
 <figure style="border: 1px solid #000; color:blue; display:table; background-color:#fff; padding:5px; font-size:.875em; margin:auto;">
     <a href="http://adsabs.harvard.edu/abs/2018ApJ...855...32S"><img src="assets/images/figs_galcen/fig4.png" alt="" width="700" style="display: block;"/></a>
